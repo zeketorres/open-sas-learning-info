@@ -1,2 +1,2 @@
 # open-sas-learning-info
-Links and information gathered from other SAS Users for public and open learning of SAS Syntax
+The wiki of this Git Repo holds the details as of 2020/08/09 - https://github.com/zeketorres/open-sas-learning-info/wiki
